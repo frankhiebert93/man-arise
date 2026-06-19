@@ -15,8 +15,8 @@ export default function Hero() {
         </h1>
         <p className="mx-auto mt-6 max-w-xl text-lg text-zinc-300 sm:text-xl">
           Iron sharpens iron. A brotherhood that forges men in faith,
-          discipline, physically, and purpose — Rise to the man God called you
-          to be.
+          discipline, physical strength, and purpose — Rise to the man God
+          called you to be.
         </p>
         <a
           href={SIGNUP_URL}
