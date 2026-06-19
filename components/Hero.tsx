@@ -8,10 +8,10 @@ export default function Hero() {
 
       <div className="relative z-10 max-w-3xl">
         <p className="mb-4 font-display text-sm uppercase tracking-[0.4em] text-gold">
-          Cuauhtémoc &middot; Men&apos;s Ministry
+          Blumenau Mennonite Church &middot; 2026
         </p>
         <h1 className="font-display text-6xl font-bold uppercase leading-none tracking-tight text-white sm:text-8xl">
-          Man Arise
+          Men Arise
         </h1>
         <p className="mx-auto mt-6 max-w-xl text-lg text-zinc-300 sm:text-xl">
           Iron sharpens iron. A brotherhood that forges men in faith,
