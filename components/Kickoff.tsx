@@ -19,6 +19,9 @@ export default function Kickoff() {
           One full day to set the standard. Six intense hours of worship,
           teaching, sweat, and brotherhood that launch every cohort with fire.
         </p>
+        <p className="mx-auto mt-6 inline-block rounded-full border border-gold/50 px-5 py-2 text-sm font-semibold uppercase tracking-widest text-gold">
+          Open to every man 18+ · All churches welcome
+        </p>
 
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-3 gap-px overflow-hidden border border-zinc-800 bg-zinc-800">
           {[
