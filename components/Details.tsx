@@ -10,10 +10,10 @@ export default function Details() {
     <section id="details" className="bg-ink px-6 py-24">
       <div className="mx-auto max-w-5xl">
         <p className="text-center font-display text-sm uppercase tracking-[0.3em] text-gold">
-          The Commitment
+          For the Men of Blumenau
         </p>
         <h2 className="mt-2 text-center font-display text-4xl font-bold uppercase tracking-tight text-white sm:text-5xl">
-          What to Expect
+          The Men Arise Program
         </h2>
         <p className="mx-auto mt-4 max-w-2xl text-center text-zinc-400">
           A powerful brotherhood with Bible studies, workouts, challenges, and
@@ -41,29 +41,6 @@ export default function Details() {
           <span className="font-display text-5xl font-bold text-gold">
             $2,000 <span className="text-2xl text-zinc-300">MXN</span>
           </span>
-        </div>
-
-        <div className="mx-auto mt-10 max-w-3xl rounded-md border border-gold/30 bg-steel p-8 text-center">
-          <p className="font-display text-sm uppercase tracking-[0.3em] text-gold">
-            A Note on Who This Is For
-          </p>
-          <p className="mt-4 leading-relaxed text-zinc-300">
-            The <span className="font-semibold text-white">Men Arise</span>{" "}
-            5-month program is for the men of{" "}
-            <span className="font-semibold text-white">
-              Blumenau Mennonite Church
-            </span>
-            . Our{" "}
-            <span className="font-semibold text-white">Ignite</span> kickoff
-            event, however, is open to every man 18 and older from any church —
-            come and experience it for yourself.
-          </p>
-          <p className="mt-4 leading-relaxed text-zinc-400">
-            If your home church would love to run a Men Arise of its own, we say{" "}
-            <span className="text-gold">go for it</span> — that&apos;s something
-            for your church to lead and host. We&apos;d be honored to cheer you
-            on.
-          </p>
         </div>
       </div>
     </section>
