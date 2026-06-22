@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import WhoThisIsFor from "@/components/WhoThisIsFor";
 import Kickoff from "@/components/Kickoff";
+import VideoSection from "@/components/VideoSection";
 import Details from "@/components/Details";
 import Pillars from "@/components/Pillars";
 import Program from "@/components/Program";
@@ -15,6 +16,7 @@ export default function Home() {
       <Hero />
       <WhoThisIsFor />
       <Kickoff />
+      <VideoSection />
       <Details />
       <Pillars />
       <Program />
